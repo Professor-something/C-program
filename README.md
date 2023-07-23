@@ -1,6 +1,3 @@
-# C-program
-This consists all the project(s) written in C
-
 SCAI-Senior Citizen Assistance Interface
 OBJECTIVE
 The following are the objectives of the Senior Citizen Assistance Interface,
