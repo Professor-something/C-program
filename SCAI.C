@@ -31,7 +31,7 @@ void main()
   printf("\t\t\tThe time is ");
   tim();
   printf("\n\n\n\n\n\t\t\t    ==========================");
-  printf("\n\t\t\t    Old People Guidance System");
+  printf("\n\t\t\t    Senior Citezen Assistance Interface");
   printf("\n\t\t\t    ==========================");
   printf("\n\n\n\n\n\n\t\tENTER 0 to terminate the program");
   printf("\n\t\tENTER 1 if you are admin and 2 if you are a user\n");
