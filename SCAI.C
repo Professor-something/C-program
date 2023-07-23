@@ -76,7 +76,7 @@ void admin()
   printf("\t\t\tThe time is ");
   tim();
   printf("\n\n\n\n\n\t\t\t    ==========================");
-  printf("\n\t\t\t    Old People Guidance System");
+  printf("\n\t\t\t    Senior Citezen Assistance Interface");
   printf("\n\t\t\t    ==========================");
   printf("\n\n\n\n\n\n\t\tENTER 0 to return to login menu\n");
   printf("\t\tENTER 1 if you want to update your medicine log\n");
@@ -109,7 +109,7 @@ void user()
   printf("\t\t\tThe time is ");
   tim();
   printf("\n\n\n\n\n\t\t\t    ==========================");
-  printf("\n\t\t\t    Old People Guidance System");
+  printf("\n\t\t\t    Senior Citezen Assistance Interface");
   printf("\n\t\t\t    ==========================");
   printf("\n\n\n\n\n\n\t\tENTER 0 To return to login menu\n");
   printf("\t\tENTER 1 if you want to see your medicine log\n");
